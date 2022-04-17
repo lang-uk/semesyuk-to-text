@@ -3,7 +3,7 @@
 Requires vosk and ukrainian [vosk model](https://alphacephei.com/vosk/models/vosk-model-uk-v3.zip).
 
 Copyright on all the texts and audio samples in this project belongs to [Ivan Semesyuk](https://www.facebook.com/ivan.semesyuk)
-Audiobook is available for free at [Слухай][https://sluhay.com.ua/9323375:Іван-Семесюк-Фаршрутка]
+Audiobook is available for free at [Слухай](https://sluhay.com.ua/9323375:Іван-Семесюк-Фаршрутка)
 
 
 To try on your own examples:
